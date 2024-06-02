@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URLs Website</title>
+</head>
+<body>
+    <h1>URL List</h1>
+    <div id="content"></div>
+
+    <script>
+        // Your JSON data
+        fetch('urls.json')
+            .then(response => response.json())
+            .then(data => displayData(data))
+            .catch(error => console.error('Error loading JSON:', error));
+
+        // Function to display data
+        function displayData(data) {
+            const contentDiv = document.getElementById('content');
+            data.data.forEach(item => {
+                const dateDiv = document.createElement('div');
+                dateDiv.innerHTML = `<h2>${item.date}</h2>`;
+                const urlsList = document.createElement('ul');
+                item.urls.forEach(url => {
+                    const urlItem = document.createElement('li');
+                    urlItem.innerHTML = `<a href="${url}" target="_blank">${url}</a>`;
+                    urlsList.appendChild(urlItem);
+                });
+                dateDiv.appendChild(urlsList);
+                contentDiv.appendChild(dateDiv);
+            });
+        }
+
+        // Display the data
+        displayData(data);
+    </script>
+</body>
+</html>
