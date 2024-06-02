@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "date": "2024-05-22",
+            "urls": [
+                "https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees"
+            ]
+        },
+        {
+            "date": "2024-05-21",
+            "urls": [
+                "https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/",
+                "https://www.meta.com/smart-glasses/"
+            ]
+        },
+        {
+            "date": "2024-05-16",
+            "urls": [
+                "https://deepmind.google/technologies/gemini/project-astra/"
+            ]
+        }
+    ]
+}
