@@ -1,6 +1,12 @@
 {
     "data": [
         {
+            "date": "2024-05-23",
+            "urls": [
+                "https://news.microsoft.com/build-2024-book-of-news/"
+            ]
+        },
+        {
             "date": "2024-05-22",
             "urls": [
                 "https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees"
