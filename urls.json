@@ -3,32 +3,56 @@
         {
             "date": "2024-06-07",
             "urls": [
-                "https://qwenlm.github.io/blog/qwen2/"
+                {
+                    "title": "",
+                    "url": "https://qwenlm.github.io/blog/qwen2/",
+                    "summary": ""
+                }
             ]
         },
         {
             "date": "2024-05-23",
             "urls": [
-                "https://news.microsoft.com/build-2024-book-of-news/"
+                {
+                    "title": "",
+                    "url": "https://news.microsoft.com/build-2024-book-of-news/",
+                    "summary": ""
+                }
             ]
         },
         {
             "date": "2024-05-22",
             "urls": [
-                "https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees"
+                {
+                    "title": "",
+                    "url": "https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees",
+                    "summary": ""
+                }
             ]
         },
         {
             "date": "2024-05-21",
             "urls": [
-                "https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/",
-                "https://www.meta.com/smart-glasses/"
+                {
+                    "title": "",
+                    "url": "https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/",
+                    "summary": ""
+                },
+                {
+                    "title": "",
+                    "url": "https://www.meta.com/smart-glasses/",
+                    "summary": ""
+                }
             ]
         },
         {
             "date": "2024-05-16",
             "urls": [
-                "https://deepmind.google/technologies/gemini/project-astra/"
+                {
+                    "title": "",
+                    "url": "https://deepmind.google/technologies/gemini/project-astra/",
+                    "summary": ""
+                }
             ]
         }
     ]
