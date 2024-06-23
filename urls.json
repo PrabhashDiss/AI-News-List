@@ -1,6 +1,36 @@
 {
     "data": [
         {
+            "date": "2024-06-21",
+            "urls": [
+                {
+                    "title": "Claude 3.5 Sonnet",
+                    "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+                    "summary": "Anthropic has launched Claude 3.5 Sonnet, a new AI model that sets industry benchmarks for intelligence, outperforming competitors and previous models. Claude 3.5 Sonnet operates at twice the speed of its predecessor, Claude 3 Opus, and is available for free on Claude.ai and the Claude iOS app, with tiered pricing for enterprise users. The model demonstrates exceptional abilities in graduate-level reasoning, coding proficiency, and writing high-quality content with a natural tone. Additionally, Anthropic has introduced a new feature called Artifacts, which allows users to interact with Claude in a more dynamic and collaborative way, and has committed to ensuring the safety and transparency of its models."
+                }
+            ]
+        },
+        {
+            "date": "2024-06-18",
+            "urls": [
+                {
+                    "title": "Sharing new research, models, and datasets from Meta FAIR",
+                    "url": "https://ai.meta.com/blog/meta-fair-research-new-releases/",
+                    "summary": "Meta FAIR is releasing several new research artifacts, including models and datasets, to the public in an effort to advance the field of AI and promote openness and collaboration. These releases include image-to-text and text-to-music generation models, a multi-token prediction model, and a technique for detecting AI-generated speech. The goal of these releases is to inspire innovation and responsible advancement in AI, and to encourage the research community to build upon and improve these models. By sharing their work, Meta FAIR hopes to accelerate progress in AI and ensure that it is developed in a way that benefits everyone."
+                }
+            ]
+        },
+        {
+            "date": "2024-06-12",
+            "urls": [
+                {
+                    "title": "Luma AI debuts 'Dream Machine' for realistic video generation, heating up AI media race",
+                    "url": "https://venturebeat.com/ai/luma-ai-debuts-dream-machine-for-realistic-video-generation-heating-up-ai-media-race/",
+                    "summary": "Luma AI has launched 'Dream Machine', a new AI system that can generate high-quality videos from simple text descriptions. The technology allows users to create original video content quickly and easily, and is available for anyone to use for free on Luma AI's website. This development marks a milestone in the democratization of AI-powered video generation, which has the potential to transform industries such as entertainment, advertising, and education. However, the technology also raises ethical and legal questions about the potential for misuse, such as creating deepfakes and misinformation."
+                }
+            ]
+        },
+        {
             "date": "2024-06-07",
             "urls": [
                 {
@@ -52,6 +82,16 @@
                     "title": "",
                     "url": "https://deepmind.google/technologies/gemini/project-astra/",
                     "summary": ""
+                }
+            ]
+        },
+        {
+            "date": "2018-12-06",
+            "urls": [
+                {
+                    "title": "AlphaGo",
+                    "url": "https://deepmind.google/technologies/alphago/",
+                    "summary": "AlphaGo, a Google DeepMind artificial intelligence system, made history by mastering the ancient game of Go, defeating a human world champion, and inspiring a new era of AI systems. AlphaGo's approach combined deep neural networks with advanced search algorithms and used reinforcement learning to improve its gameplay over time. It made several inventive winning moves, including Move 37, which had a 1 in 10,000 chance of being used, and was awarded a 9 dan professional ranking. AlphaGo's technical legacy has inspired the development of stronger AI systems, including AlphaZero and MuZero, which are helping to solve complex challenges in various fields."
                 }
             ]
         }
