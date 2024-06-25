@@ -35,9 +35,10 @@
                 item.urls.forEach(url => {
                     const urlItem = document.createElement('li');
                     urlItem.className = "list-group-item";
-                    urlItem.innerHTML = `<h5>${url.title}</h5>`;
-                    urlItem.innerHTML = `<a href="${url.url}" target="_blank">${url.url}</a>`;
-                    urlItem.innerHTML = `<p>${url.summary}</p>`;
+                    urlItem.innerHTML = ``;
+                    urlItem.innerHTML += `<h5>${url.title}</h5>`;
+                    urlItem.innerHTML += `<a href="${url.url}" target="_blank">${url.url}</a>`;
+                    urlItem.innerHTML += `<p>${url.summary}</p>`;
                     urlsList.appendChild(urlItem);
                 });
                 dateDiv.appendChild(urlsList);
