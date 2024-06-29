@@ -21,6 +21,16 @@
             ]
         },
         {
+            "date": "2024-06-14",
+            "urls": [
+                {
+                    "title": "NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models",
+                    "url": "https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/",
+                    "summary": "NVIDIA has released Nemotron-4 340B, an open synthetic data generation pipeline for training large language models (LLMs). This pipeline includes instruct and reward models that can generate high-quality synthetic data for various industries, such as healthcare and finance. The models are optimized for NVIDIA NeMo and TensorRT-LLM, and can be downloaded from the NVIDIA NGC catalog and Hugging Face. This open model license provides developers with a free and scalable way to generate synthetic data for training and refining LLMs."
+                }
+            ]
+        },
+        {
             "date": "2024-06-12",
             "urls": [
                 {
